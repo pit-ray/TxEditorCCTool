@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ColorCode>
+    <Code name="clBlack">#000000</Code>
+    <Code name="clMaroon">#800000</Code>
+    <Code name="clGreen">#008000</Code>
+    <Code name="clOlive">#808000</Code>
+    <Code name="clNavy">#000080</Code>
+    <Code name="clPurple">#800080</Code>
+    <Code name="clTeal">#008080</Code>
+    <Code name="clGray">#808080</Code>
+    <Code name="clSilver">#c0c0c0</Code>
+    <Code name="clRed">#ff0000</Code>
+    <Code name="clLime">#00ff00</Code>
+    <Code name="clYellow">#ffff00</Code>
+    <Code name="clBlue">#0000ff</Code>
+    <Code name="clFuchsia">#ff00ff</Code>
+    <Code name="clAqua">#00ffff</Code>
+    <Code name="clWhite">#ffffff</Code>
+    <Code name="clScrollBar">#c8c8c8</Code>
+    <Code name="clBackground">#000000</Code>
+    <Code name="clAppWorkSpace">#ababab</Code>
+    <Code name="clWindow">#ffffff</Code>
+    <Code name="clActiveCaption">#99b4d1</Code>
+    <Code name="clCaptionText">#000000</Code>
+    <Code name="clActiveBorder">#b4b4b4</Code>
+    <Code name="clInactiveCaption">#bfcddb</Code>
+    <Code name="clInactiveCaptionText">#000000</Code>
+    <Code name="clInactiveBorder">#f4f7fc</Code>
+    <Code name="clMenu">#f0f0f0</Code>
+    <Code name="clMenuText">#000000</Code>
+    <Code name="clWindowFrame">#646464</Code>
+    <Code name="clWindowText">#000000</Code>
+    <Code name="clHighlight">#0078d7</Code>
+    <Code name="clHighlightText">#000000</Code>
+    <Code name="clGrayText">#6d6d6d</Code>
+    <Code name="clBtnHighlight">#ffffff</Code>
+    <Code name="cl3DLight">#e3e3e3</Code>
+    <Code name="clBtnFace">#f0f0f0</Code>
+    <Code name="clBtnShadow">#a0a0a0</Code>
+    <Code name="cl3DDkShadow">#696969</Code>
+    <Code name="clBtnText">#000000</Code>
+    <Code name="clInfoText">#000000</Code>
+    <Code name="clInfoBk">#ffffe1</Code>
+</ColorCode>

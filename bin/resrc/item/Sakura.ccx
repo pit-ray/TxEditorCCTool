@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+text,back属性
+0:非対応
+1:自分の所持色
+2:基本色
+3:サブ色
+4:自分の所持色を淡くした色
+-->
+
+<lang name="All">
+    <item name="C[BRC]" text="own" back="main" show=":false" bold=":true" under=":false">Bracket</item>
+    <item name="C[CAR]" text="own" back="none">Cursor</item>
+    <item name="C[CBK]" text="none" back="own" show=":false">CurrentBack</item>
+    <item name="C[CMT]" text="own" back="main" show=":true" bold=":false" under=":false">Comment</item>
+    <item name="C[CTL]" text="own" back="main" show=":true" bold=":false" under=":false">CtrlCode</item>
+    <item name="C[CVL]" text="own" back="none" show=":false" bold=":false">CurrentColumn</item>
+    <item name="C[DFA]" text="own" back="pale" show=":true" bold=":false" under=":false">DiffAdd</item>
+    <item name="C[DFC]" text="own" back="pale" show=":true" bold=":false" under=":false">DiffChange</item>
+    <item name="C[DFD]" text="own" back="pale" show=":true" bold=":false" under=":false">DiffDelete</item>
+    <item name="C[EBK]" text="none" back="own" show=":false">EvenLineBack</item>
+    <item name="C[EOF]" text="own" back="sub" show=":true" bold=":false" under=":false">EOF</item>
+    <item name="C[EOL]" text="own" back="main" show=":true" bold=":false" under=":false">LineEnd</item>
+    <item name="C[FN2]" text="main" back="own" show=":true" bold=":false" under=":false">FindStr2</item><!--文字色はTextと同じ-->
+    <item name="C[FN3]" text="main" back="own" show=":true" bold=":false" under=":false">FindStr3</item><!---->
+    <item name="C[FN4]" text="main" back="own" show=":true" bold=":false" under=":false">FindStr4</item><!---->
+    <item name="C[FN5]" text="main" back="own" show=":true" bold=":false" under=":false">FindStr5</item><!---->
+    <item name="C[FND]" text="main" back="own" show=":true" bold=":false" under=":false">FindStr</item> <!---->
+    <item name="C[HDC]" text="own" back="main" show=":false" bold=":false" under=":false">HereDoc,Quote</item>
+    <item name="C[IME]" text="own" back="none" show=":true">CursorIME</item>
+    <item name="C[KW1]" text="own" back="main" show=":true" bold=":false" under=":false">Keyword1</item>
+    <item name="C[KW2]" text="own" back="main" show=":true" bold=":false" under=":false">Keyword2,Tag</item>
+    <item name="C[KW3]" text="own" back="main" show=":true" bold=":false" under=":false">Keyword3,AspXml</item>
+    <item name="C[KW4]" text="own" back="main" show=":true" bold=":false" under=":false">Keyword4,Option</item>
+    <item name="C[KW5]" text="own" back="main" show=":true" bold=":false" under=":false">Keyword5,Section</item>
+    <item name="C[KW6]" text="own" back="main" show=":true" bold=":false" under=":false">Keyword6,Key</item>
+    <item name="C[KW7]" text="own" back="main" show=":true" bold=":false" under=":false">Keyword7,Label</item>
+    <item name="C[KW8]" text="own" back="main" show=":true" bold=":false" under=":false">Keyword8</item>
+    <item name="C[KW9]" text="own" back="main" show=":true" bold=":false" under=":false">Keyword9</item>
+    <item name="C[KWA]" text="own" back="main" show=":true" bold=":false" under=":false">Keyword10</item>
+    <item name="C[LNO]" text="own" back="sub" show=":true" bold=":false" under=":false">LineNum</item>
+    <item name="C[MOD]" text="own" back="sub" show=":true" bold=":true" under=":false">LineNumChanged</item>
+    <item name="C[MRK]" text="sub" back="own" show=":true" bold=":false" under=":false">BookMark</item><!--文字が背景色と同じ-->
+    <item name="C[NOT]" text="own" back="none" show=":false">NoteLine</item>
+    <item name="C[NUM]" text="own" back="main" show=":false" bold=":false" under=":false">Number</item>
+    <item name="C[PGV]" text="none" back="own" show=":true" bold=":false" under=":false">MiniMap</item>
+    <item name="C[RAP]" text="own" back="main" show=":true" bold=":false" under=":false">RapLine</item>
+    <item name="C[RK1]" text="own" back="main" show=":false" bold=":false" under=":false">Regex1</item>
+    <item name="C[RK2]" text="own" back="main" show=":false" bold=":false" under=":false">Regex2</item>
+    <item name="C[RK3]" text="own" back="main" show=":false" bold=":false" under=":false">Regex3</item>
+    <item name="C[RK4]" text="own" back="main" show=":false" bold=":false" under=":false">Regex4</item>
+    <item name="C[RK5]" text="own" back="main" show=":false" bold=":false" under=":false">Regex5</item>
+    <item name="C[RK6]" text="own" back="main" show=":false" bold=":false" under=":false">Regex6</item>
+    <item name="C[RK7]" text="own" back="main" show=":false" bold=":false" under=":false">Regex7</item>
+    <item name="C[RK8]" text="own" back="main" show=":false" bold=":false" under=":false">Regex8</item>
+    <item name="C[RK9]" text="own" back="main" show=":false" bold=":false" under=":false">Regex9</item>
+    <item name="C[RKA]" text="own" back="main" show=":false" bold=":false" under=":false">Regex10</item>
+    <item name="C[RUL]" text="own" back="sub" show=":true">Ruler</item>
+    <item name="C[SEL]" text="own" back="own" show=":true" bold=":false" under=":false">SelText,SelBack</item>
+    <item name="C[SPC]" text="own" back="main" show=":false" bold=":false" under=":false">HalfSpace</item>
+    <item name="C[SQT]" text="own" back="main" show=":false" bold=":false" under=":false">SQString</item>
+    <item name="C[TAB]" text="own" back="main" show=":true" bold=":false" under=":false">Tab</item>
+    <item name="C[TXT]" text="own" back="own">Text,Back</item>
+    <item name="C[UND]" text="own" back="none" show=":true">CurrentUnder</item>
+    <item name="C[URL]" text="own" back="main" show=":true" bold=":false" under=":true">Link</item>
+    <item name="C[VER]" text="own" back="main" show=":false" bold=":false" under=":false">DigitLine</item>
+    <item name="C[WQT]" text="own" back="main" show=":false" bold=":false" under=":false">DQString</item>
+    <item name="C[ZEN]" text="own" back="main" show=":true" bold=":false" under=":false">FullSpace</item>
+</lang>

@@ -1,0 +1,27 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build-debug",
+            "type": "shell",
+            "command": "cmakebuild",
+            "args": [
+                "-debug"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "build-release",
+            "type": "shell",
+            "command": "cmakebuild",
+            "args": [
+                "-release"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}

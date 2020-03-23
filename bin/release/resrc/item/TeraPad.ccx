@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<lang name="Common">
+    <item name="Font">Text,Number,Cursor,CursorIME</item>
+    <item name="Bk">Back,CurrentBack,EvenLineBack</item>
+    <item name="SelStr">SelText</item>
+    <item name="SelBk">SelBack</item>
+    <item name="Ret">LineEnd,EOF,NoteLine,CtrlCode,BookMark</item>
+    <item name="Tab">Tab,HalfSpace,FullSpace</item>
+    <item name="Link">Link</item>
+    <item name="Inyou">Quote,HereDoc,DiffAdd,DiffChange,DiffDelete,Regex1,Regex2,Regex3,Regex3,Regex5,Regex6,Regex7,Regex8,Regex9,Regex10</item>
+    <item name="UnderLine">CurrentUnder,CurrentColumn</item>
+    <item name="WrapLine">RapLine,Bracket</item>
+    <item name="ColLine">DigitLine</item>
+    <item name="LeftBarStr">LineNum,LineNumChanged,MiniMap</item>
+    <item name="RulerStr">Ruler</item>
+</lang>
+
+<lang name="HTML">
+    <item name="Html_Comment">Comment</item>
+    <item name="Html_Asp">AspXml</item>
+    <item name="Html_Tag">Tag</item>
+    <item name="Html_Option">Option</item>
+</lang>
+
+<lang name="Perl">
+    <item name="Perl_Comment">Comment</item>
+    <item name="Perl_Str">SQString,DQString,FindStr,FindStr1,FindStr2,FindStr3,FindStr4,FindStr5</item>
+    <item name="Perl_KeyWord"
+            bold="Perl_KeyWord_Bold:true"
+            case="Perl_KeyWord_Case:false">Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7,Keyword8,Keyword9,Keyword10</item>
+</lang>
+
+<lang name="PHP">
+    <item name="Php_Comment">Comment</item>
+    <item name="Php_Str">SQString,DQString,FindStr,FindStr1,FindStr2,FindStr3,FindStr4,FindStr5</item>
+    <item name="Php_KeyWord"
+            bold="Php_KeyWord_Bold:true"
+            case="Php_KeyWord_Case:false">Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7,Keyword8,Keyword9,Keyword10</item>
+</lang>
+
+<lang name="CSS">
+    <item name="Css_Comment">Comment</item>
+    <item name="Css_Str">SQString,DQString,FindStr,FindStr1,FindStr2,FindStr3,FindStr4,FindStr5</item>
+    <item name="Css_KeyWord"
+            bold="Css_KeyWord_Bold:true"
+            case="Css_KeyWord_Case:false">Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7,Keyword8,Keyword9,Keyword10</item>
+</lang>
+
+<lang name="Ruby">
+    <item name="Ruby_Comment">Comment</item>
+    <item name="Ruby_Str">SQString,DQString,FindStr,FindStr1,FindStr2,FindStr3,FindStr4,FindStr5</item>
+    <item name="Ruby_KeyWord"
+            bold="Ruby_KeyWord_Bold:true"
+            case="Ruby_KeyWord_Case:true">Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7,Keyword8,Keyword9,Keyword10</item>
+</lang>
+
+<lang name="INI">
+    <item name="Ini_Comment">Comment</item>
+    <item name="Ini_Sec">Section</item>
+    <item name="Ini_Key">Key</item>
+</lang>
+
+<lang name="BAT">
+    <item name="Bat_Comment">Comment</item>
+    <item name="Bat_Label">Label</item>
+    <item name="Bat_KeyWord"
+            bold="Bat_KeyWord_Bold:true"
+            case="Bat_KeyWord_Case:false">Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7,Keyword8,Keyword9,Keyword10</item>
+</lang>
+
+<lang name="CPP">
+    <item name="Cpp_Comment">Comment</item>
+    <item name="Cpp_Str">SQString,DQString,FindStr,FindStr1,FindStr2,FindStr3,FindStr4,FindStr5</item>
+    <item name="Cpp_KeyWord"
+            bold="Cpp_KeyWord_Bold:true"
+            case="Cpp_KeyWord_Case:true">Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7,Keyword8,Keyword9,Keyword10</item>
+</lang>
+
+<lang name="Java">
+    <item name="Java_Comment">Comment</item>
+    <item name="Java_Str">SQString,DQString,FindStr,FindStr1,FindStr2,FindStr3,FindStr4,FindStr5</item>
+    <item name="Java_KeyWord"
+            bold="Java_KeyWord_Bold:true"
+            case="Java_KeyWord_Case:true">Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7,Keyword8,Keyword9,Keyword10</item>
+</lang>
+
+<lang name="JS">
+    <item name="Js_Comment">Comment</item>
+    <item name="Js_Str">SQString,DQString,FindStr,FindStr1,FindStr2,FindStr3,FindStr4,FindStr5</item>
+    <item name="Js_KeyWord"
+            bold="Js_KeyWord_Bold:true"
+            case="Js_KeyWord_Case:true">Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7,Keyword8,Keyword9,Keyword10</item>
+</lang>
+
+<lang name="VB">
+    <item name="Vb_Comment">Comment</item>
+    <item name="Vb_Str">SQString,DQString,FindStr,FindStr1,FindStr2,FindStr3,FindStr4,FindStr5</item>
+    <item name="Vb_KeyWord"
+            bold="Vb_KeyWord_Bold:true"
+            case="Vb_KeyWord_Case:false">Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7,Keyword8,Keyword9,Keyword10</item>
+</lang>
+
+<lang name="HSP">
+    <item name="Hsp_Comment">Comment</item>
+    <item name="Hsp_Label">Label</item>
+    <item name="Hsp_Str">SQString,DQString,FindStr,FindStr1,FindStr2,FindStr3,FindStr4,FindStr5</item>
+    <item name="Hsp_KeyWord"
+            bold="Hsp_KeyWord_Bold:true"
+            case="Hsp_KeyWord_Case:false">Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7,Keyword8,Keyword9,Keyword10</item>
+</lang>
+
+<lang name="Delphi">
+    <item name="Pas_Comment">Comment</item>
+    <item name="Pas_Str">SQString,DQString,FindStr,FindStr1,FindStr2,FindStr3,FindStr4,FindStr5</item>
+    <item name="Pas_KeyWord"
+            bold="Pas_KeyWord_Bold:true"
+            case="Pas_KeyWord_Case:false">Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6,Keyword7,Keyword8,Keyword9,Keyword10</item>
+</lang>
