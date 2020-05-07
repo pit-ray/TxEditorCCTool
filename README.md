@@ -12,7 +12,7 @@ If you want to convert color-setting file of Sakura Editor to TeraPad, do as fol
 ```shell
 tecc.exe molokai.col -fr Sakura -to TeraPad -nm molokai2.tpc
 ````
-|Option|details|
+|Options|details|
 |---|---|
 |-fr|assign an source editor name. `TeraPad` or `Sakura`|
 |-to|assign an destination editor name. `TeraPad` or `Sakura`|
